@@ -1,2 +1,2 @@
 # dRNN
-This is my first repository.
+Source code for 'Diagonal Recurrent Neural Network Based Hysteresis Modelling'.
